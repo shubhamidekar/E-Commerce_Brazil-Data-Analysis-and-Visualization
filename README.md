@@ -3,7 +3,9 @@
 ## Project Description
 
 This project focuses on the transformation, analysis, and visualization of E-commerce data from Brazil found on Kaggle. 
+
 Kaggle link:
+
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 It consists of 9 datasets such as :
@@ -38,9 +40,12 @@ Our analysis revealed several key findings, such as:
 - Location wise preferences over top 4 product categories.
 
 NoSQL API for Azure Cosmos DB which uses Cosmos QL for Document Data model and GraphQL in Apache Gremlin API for Graph Data Model.
+
 ## Data Visualization
 
 Performed Visualization on Power BI with interactive dashboard.
+
 Power BI link:
+
 https://app.powerbi.com/view?r=eyJrIjoiOGM4MWI1MjktZGMwMi00ZjJmLTg1ZjctODVkNTU5MzE5MDY1IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&embedImagePlaceholder=true
 
