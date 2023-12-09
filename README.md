@@ -19,6 +19,10 @@ It consists of 9 datasets such as :
 - Product Category Name
 - Sellers
 
+## Architecture Diagram
+
+![image](https://github.com/shubhamidekar/E-Commerce_Brazil-Data-Analysis-and-Visualization/assets/114885651/4485235e-1b2a-49d7-af89-d3e5930396f9)
+
 ## Data Transformation
 
 The raw data underwent several transformation steps, including:
